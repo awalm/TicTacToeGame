@@ -3,7 +3,9 @@ package io.github.awalm;
 import java.util.Random;
 
 import javax.swing.JFrame;
-
+/*
+ Note: Unimplemented!
+*/
 public class TicTacAutoHard extends TicTacAutoEasy {
 
 	public TicTacAutoHard(JFrame gBoard, String playerOne, String playerTwo) {
